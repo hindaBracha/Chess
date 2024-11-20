@@ -1,0 +1,32 @@
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.Form1.resources
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.csproj.GenerateResource.cache
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.AssemblyInfo.cs
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.exe
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.deps.json
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.runtimeconfig.json
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.dll
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.pdb
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.dll
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\refint\MyGame.dll
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.pdb
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.genruntimeconfig.cache
+C:\Users\The user\Desktop\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\ref\MyGame.dll
+D:\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.exe
+D:\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.deps.json
+D:\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.runtimeconfig.json
+D:\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.dll
+D:\לימודים\c#\hW\MyGame\MyGame\bin\Debug\net6.0-windows\MyGame.pdb
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.Form1.resources
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.csproj.GenerateResource.cache
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.AssemblyInfoInputs.cache
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.AssemblyInfo.cs
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.csproj.CoreCompileInputs.cache
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.dll
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\refint\MyGame.dll
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.pdb
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\MyGame.genruntimeconfig.cache
+D:\לימודים\c#\hW\MyGame\MyGame\obj\Debug\net6.0-windows\ref\MyGame.dll
